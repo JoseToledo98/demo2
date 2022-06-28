@@ -38,7 +38,7 @@
 			</plugin>
 			
 		</plugins>
-		<finalName>demo2</finalName>
+		<finalName>demo</finalName>
 	</build>
 
 </project>

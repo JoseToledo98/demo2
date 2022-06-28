@@ -1,3 +1,3 @@
 FROM openjdk:16
-ADD target/demo2.jar demo3.jar
-ENTRYPOINT [ "java", "-jar", "demo2.jar" ]
+ADD target/demo.jar demo.jar
+ENTRYPOINT [ "java", "-jar", "demo.jar" ]
