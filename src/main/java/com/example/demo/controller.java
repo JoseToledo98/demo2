@@ -8,6 +8,6 @@ public class controller{
     @GetMapping("/")
     @ResponseBody
     public String helloword(){
-        return "chtm frosi";
+        return "hola mundo";
     }
 }
